@@ -2,17 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../Demo/Demo1/backend" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../Demo/Task Managment Demo" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../NodeJs-PDF-Task-main" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../PDF-Download" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../app-details-api" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../dashboard-user-curd-2" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../demo-quest-design" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../git-reating" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../google-play-scraper" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../node-curd-demo" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../node-mongo-signup-API/node-mongo-signup-verification-api-master-master" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>

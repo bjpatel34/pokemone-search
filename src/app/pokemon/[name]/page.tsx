@@ -37,7 +37,7 @@ export default async function PokemonDetailPage({
                             <span className="font-medium">{pokemon.name.charAt(0).toUpperCase() + pokemon.name.slice(1)}</span>
                         </li>
                     </ol>
-                </nav>git branch -M main
+                </nav>
             </div>
 
             <PokemonDetails pokemon={pokemon} />
